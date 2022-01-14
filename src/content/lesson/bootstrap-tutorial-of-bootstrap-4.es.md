@@ -270,7 +270,7 @@ Bootstrap tiene varias versiones, siempre verifica que estés usando la última 
 
 
 Te recomendamos que uses el CDN para importar bootstrap en tu archivo HTML, de este modo:
-We recomend using a CDN to import bootstrap in your HTML like this one: [https://www.bootstrapcdn.com/](https://www.bootstrapcdn.com/)
+Recomendamos usar un CDN para importar bootstrap en su HTML como este: [https://www.bootstrapcdn.com/](https://www.bootstrapcdn.com/)
 
 Si estás migrando tu proyecto a nueva versión de Bootstrap, recuerda siempre verificar su documentación.
 
